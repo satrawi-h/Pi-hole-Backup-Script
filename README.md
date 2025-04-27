@@ -15,7 +15,7 @@ This script creates backups of your Pi-hole configuration using the Teleporter f
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/TheInfamousToTo/Pi-hole-Backup-Script.git
+   git clone https://github.com/satrawi-h/Pi-hole-Backup-Script.git
    ```
 2. Navigate to the script directory:
    ```sh
@@ -44,7 +44,7 @@ You'll need to adjust these variables within the `backup_pihole.sh` script to ma
 
 # ------------------------------------------------------------------------------
 # Script: backup_pihole.sh
-# Author: TheInfamousToTo
+# Author: satrawi-h
 # Date: April 21, 2025
 # Description: This script automates the backup of Pi-hole configurations
 #              using the Teleporter function, stores them in a specified
