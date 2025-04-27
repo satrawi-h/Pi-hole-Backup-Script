@@ -2,7 +2,7 @@
 
 # ------------------------------------------------------------------------------
 # Script: backup_pihole.sh
-# Author: TheInfamousToTo
+# Author: satrawi-h
 # Date: April 21, 2025
 # Description: This script automates the backup of Pi-hole configurations
 #              using the Teleporter function, stores them in a specified
